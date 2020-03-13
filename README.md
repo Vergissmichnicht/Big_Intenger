@@ -2,10 +2,17 @@
 进阶班作业
 
 ![image](https://github.com/Vergissmichnicht/Big_Intenger/blob/master/bug.jpg)
+## 介绍：
+**~~解决了大于1e9的整数的加减乘除运算问题~~**
 
-~~解决了大于1e9的整数的加减乘除运算问题~~
-**核心思想是用字符串读入数字，用vector容器进行运算
+**核心思想是用字符串读入数字，用vector容器进行运算**
+**可以计算1e9以上的两个整数加减**
+**可以计算一个1e9以上整数和一个int的乘法**
+**可以计算一个1e9以上整数除以一个int的除法**
 
+
+
+## **构建：**
 ## 0、读入
 ```
 for (int i = obj.a.size() - 1; i >= 0; i--)
@@ -83,7 +90,7 @@ for (int i = c.size() - 1; i >= 0; i--)
 
 
 
-## Developed
+## Developeers
 我
 
 
